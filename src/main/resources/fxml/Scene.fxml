@@ -24,7 +24,7 @@
                      <HBox.margin>
                         <Insets right="10.0" />
                      </HBox.margin></Button>
-                  <Button mnemonicParsing="false" onAction="#doVisualizzaCorsi" prefHeight="28.0" prefWidth="205.0" text="Visualizza Corsi" textAlignment="CENTER">
+                  <Button fx:id="bottone" mnemonicParsing="false" onAction="#doVisualizzaCorsi" prefHeight="28.0" prefWidth="205.0" text="Visualizza Corsi" textAlignment="CENTER">
                      <HBox.margin>
                         <Insets left="10.0" />
                      </HBox.margin></Button>
